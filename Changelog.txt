@@ -1,0 +1,17 @@
+project c patch notes 9.1.2026
+
+Added last mission (boss)
+Added new map for last mission
+Added boss enemy
+Made changes to enemy shooting mechanism.
+
+
+
+
+project c patch notes 8.1.2026
+
+Added scene for mission end (completed/failed).
+Added bounty gamemode.
+Added new zombies types: Tank, Runner and BountyZombie
+Changed starting money to 500
+Added sounds for zombies 
