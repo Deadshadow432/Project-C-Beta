@@ -1,3 +1,6 @@
+project c minor patch
+made changes to code behind projectiles
+
 project c patch notes 9.1.2026
 
 Added last mission (boss)
