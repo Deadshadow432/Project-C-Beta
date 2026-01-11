@@ -1,3 +1,12 @@
+project c patch notes 11.1.2026
+
+Added hp bars (only visible when target is damaged)
+Added knockback effect on enemy hits
+Added hit effect to enemies (color changes to red for 0.3s)
+Changed logic behind player movement.
+Nerfed Boss projectile speed.
+Nerfed melee attack range of enemies.
+
 project c minor patch
 made changes to code behind projectiles
 
