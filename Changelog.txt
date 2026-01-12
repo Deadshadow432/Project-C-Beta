@@ -1,3 +1,9 @@
+project c patch notes 11.1.2026 patch 2
+
+Player movement fixes.
+
+
+
 project c patch notes 11.1.2026
 
 Added hp bars (only visible when target is damaged)
