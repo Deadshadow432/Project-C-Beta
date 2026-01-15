@@ -1,3 +1,15 @@
+Project c Patch notes 15.1.2026
+
+added settings
+added pause menu
+added ending
+added gun sound
+changed music
+fixed enemy hp bars
+changed placement of weapon cost in shop
+buffed enemy melee range
+fixed bug in loadout
+
 project c patch notes 11.1.2026 patch 2
 
 Player movement fixes.
